@@ -3,12 +3,12 @@
 This repository is created for those who need ideas from concise code snippets of Python and MongoDB as well as those who are already or planning to take the course. The content is based on the topics in the course with 7 folders, one of which is 'Data' containing all the files for running the programs. The below are descriptions for each folder.
 
 <ol>
-  <li>Data Extraction Fundamental: learning to handle CSV/Excel/JSON with <a href="">ERCOT</a>, <a href="http://developer.nytimes.com/">NYTimes API</a>and others</li>
-  <li>Data Extraction Complex: practicing more complicated format such as XML with <a href="https://www.transtats.bts.gov/Data_Elements.aspx?Data=2">TranStats</a></li>
-  <li>Data Quality: auditing validity/accuracy/completeness/consistency/uniformity with <a href="https://wiki.dbpedia.org/">DBpedia</a> Major Cities data set</li>
-  <li>MongoDB Basics: using essential queries such as $match/$project/$sum/$exists and $unwind/$regex/$set plus many more with DBpedia Autos data set</li>
-  <li>Data Analysis: pipelining queries to fetch more specifically conditioned data with Twitter and Major Cities data set</li>
-  <li>Case Study: applying all the knowledge to the data set from <a href="https://www.openstreetmap.org/#map=10/41.8338/-87.7313">Open Street Map</a> for analysis</li>
+  <li><b>Data Extraction Fundamental</b>: learning to handle CSV/Excel/JSON with <a href="">ERCOT</a>, <a href="http://developer.nytimes.com/">NYTimes API</a>and others</li>
+  <li><b>Data Extraction Complex</b>: practicing more complicated format such as XML with <a href="https://www.transtats.bts.gov/Data_Elements.aspx?Data=2">TranStats</a></li>
+  <li><b>Data Quality</b>: auditing validity/accuracy/completeness/consistency/uniformity with <a href="https://wiki.dbpedia.org/">DBpedia</a> Major Cities data set</li>
+  <li><b>MongoDB Basics</b>: using essential queries such as $match/$project/$sum/$exists and $unwind/$regex/$set plus many more with DBpedia Autos data set</li>
+  <li><b>Data Analysis</b>: pipelining queries to fetch more specifically conditioned data with Twitter and Major Cities data set</li>
+  <li><b>Case Study</b>: applying all the knowledge to the data set from <a href="https://www.openstreetmap.org/#map=10/41.8338/-87.7313">Open Street Map</a> for analysis</li>
 </ol>
 
 ### How to use this repository
