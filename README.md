@@ -1,4 +1,4 @@
-# Mongo-DB
+# MongoDB
 ### Example codes and projects for Udacity course <a href="https://classroom.udacity.com/courses/ud032">Data Wrangling with Mongo DB</a>
 This repository is created for those who need ideas from concise code snippets of Python and MongoDB as well as those who are already or planning to take the course. The content is based on the topics in the course with 7 folders, one of which is 'Data' containing all the files for running the programs. The below are descriptions for each folder.
 
@@ -20,6 +20,7 @@ For the course takers, I strongly recommend to try quizzes on your own first and
   <li><a href="https://docs.python.org/3/howto/regex.html">Regex for Python 3</a>: Python regex tutorial</li>
   <li><a href="https://www.w3schools.com/js/js_json_intro.asp">JSON Tutorial of W3Schools</a>: introduction to JSON</li>
   <li><a href="https://jsonformatter.curiousconcept.com/#">JSON Formmatter</a>: validate JSON files</li>
+  <li><a href="https://api.mongodb.com/python/current/tutorial.html">PyMongo</a>: tutorial for PyMongo</li>
   <li><a href="https://www.youtube.com/watch?v=GtD93tVZDX4&list=PLS1QulWo1RIZtR6bncmSaH8fB81oRl6MP">MongoDB Tutorial on YouTube</a>: basic syntax</li>
   <li><a href="https://docs.mongodb.com/manual/aggregation/">MongoDB Reference</a>: manual for operator, command, etc</li>
 </ul>
